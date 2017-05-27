@@ -10,7 +10,8 @@ namespace TestHW
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!\n");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Added line for PR test.");
             Console.WriteLine("Press any key to continue...\n");
             Console.ReadKey();
         }
